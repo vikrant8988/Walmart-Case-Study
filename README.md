@@ -47,6 +47,5 @@ Walmart wanted to deeply understand who spends how much during Black Friday and 
 3. **Grow Female Segment** → Launch exclusive early-bird women-only offers or “Shop with Friends” bundle deals to close the ₹700 gap.  
 4. **City A Upside Opportunity** → Run deeper discounts or free delivery thresholds specifically for City A to lift average ticket size.  
 5. **Married & Older Customers** → Create family-oriented bundles and senior-citizen morning slots with extra loyalty points.  
-6. **Next Step** → Build a customer segmentation RFM + demographic model for personalized offers in the next event.
 
 **Result Expected**: 8–12% overall revenue lift in the next Black Friday with the same traffic, simply by smarter targeting and inventory allocation.
